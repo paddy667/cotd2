@@ -140,7 +140,7 @@ cache: false
 
 	<div id="help" class="trivia ui-content" data-role="popup" data-position-to="window" data-tolerance="50,30,30,30" data-theme="b">
 				<a href="#" data-rel="back" data-role="button" data-theme="a" data-icon="delete" data-iconpos="notext" class="ui-btn-right">Close</a>
-				To navigate, swipe up or down to cycle though the choices. The left and right arrow buttons act similarly. Click About to find out more about the item. Rate the item by clicking the Hearts. Click Save to record your rating or Cancel to remove it.
+				To navigate, swipe up or down to cycle though the choices. The left and right arrow buttons act similarly. Click About to find out more about the item. Rate the item by clicking the Hearts. Click Save to record your rating or Cancel to remove it. Dogs are better!
 			</div>
 
 	<div data-role="header" data-position="fixed" data-fullscreen="true" data-id="hdr" data-tap-toggle="false">
